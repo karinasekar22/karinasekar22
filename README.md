@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karina Sekar Putri Utami</h1>
 <h3 align="center">A passionate developer from East Java</h3>
 
-- 👨‍💻 All of my projects are available at [My Github](My Github)
+- 👨‍💻 All of my projects are available at My Github
 
 - ⚡ Fun fact **I like to code at midnight with a cup of coffee🤭**
 
